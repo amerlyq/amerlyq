@@ -1,15 +1,4 @@
 ### Amerlyq
-```
-　　　　　／＞　　フ
-　　　　　| 　_　 _ l
-　 　　　／` ミ＿xノ
-　　 　 /　　　　　|
-　　　 /　 ヽ　　 ﾉ
-　 　 │　　|　|　|
-　／￣|　　 |　|　|
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
-```
 
 <!--
 **amerlyq/amerlyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
