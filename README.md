@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amerlyq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amerlyq)
+![Stats](https://github-readme-stats.vercel.app/api?username=amerlyq&show_icons=true&count_private=true&line_height=40)
